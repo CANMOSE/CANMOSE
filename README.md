@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Burak Barıt.My nickname is CANMOSE.I usually use this nickname.
+- 👋 Hi, I’m Burak.My nickname is CANMOSE.I usually use this nickname.
 - 📫 I am a veterinarian.I've been interested in software since I was little.
 - 👀 I’m interested in python and web devoplement
 - 🌱 I used to work with Visual Basic and C++
